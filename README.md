@@ -22,6 +22,6 @@ We present ADN-RAR, a novel framework for PCCT Ring Artifact Reduction.
 Clone the repository (requires git):
 
 ```bash
-git clone https://github.com/LowLevelAI/GLARE.git
-cd GLARE
+git clone https://github.com/zhongxinyun/ADN-RAR.git
+cd ADN-RAR
 ```
