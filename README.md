@@ -29,7 +29,7 @@ We present ADN-RAR, a novel framework for PCCT Ring Artifact Reduction.
 
 
 ## 📢 News
-**2026-01-20:** Our paper has been submitted to IEEE Transactions on Image Processing (TIP) for peer review. Code and pretrained Models will be released after accept. :rocket:<br>
+**2026-01-20:** Our paper has been submitted to IEEE Transactions on Image Processing (TIP) for peer review. Code and pretrained Models will be released after acceptance. :rocket:<br>
 
 ### 📦 Repository
 
