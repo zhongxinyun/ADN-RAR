@@ -14,6 +14,18 @@ We present ADN-RAR, a novel framework for PCCT Ring Artifact Reduction.
 - **Adaptive convolutional dictionary**: The dictionary provides a flexible and interpretable representation of ring patterns, enabling more effective suppression of artifact structures.
 - **Dynamic hyper-parameter generator**: adaptively regulates the update step size in each iteration according to residual artifact intensity. 
 
+
+### Results
+
+**Simulate Dataset**
+
+![simulate_rat_dataset](fig/simulate_rat_dataset.jpg)
+
+**PCCT Real Dataset**
+
+![simulate_rat_dataset](fig/simulate_rat_dataset.jpg)
+
+
 ## 📢 News
 **2026-01-20:** Our paper has been submitted to IEEE Transactions on Image Processing (TIP) for peer review. Code and pretrained Models will be released after accept. :rocket:<br>
 
