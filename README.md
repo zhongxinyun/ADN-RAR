@@ -23,7 +23,9 @@ We present ADN-RAR, a novel framework for PCCT Ring Artifact Reduction.
 
 **PCCT Real Dataset**
 
-![simulate_rat_dataset](fig/simulate_rat_dataset.jpg)
+![real_mouse](fig/real_mouse.jpg)
+
+![real_phantom](fig/real_phantom.jpg)
 
 
 ## 📢 News
