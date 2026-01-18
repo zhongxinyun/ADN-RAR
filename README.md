@@ -6,7 +6,7 @@
 <h4 align="center"><sup>&dagger;</sup>Corresponding Authors</center></center>
 
 ### Introduction
-This repository represents the official implementation of our paper titled **ADN-RAR: Adaptive Dictionary Network with Joint Tri-Domain Alternating Optimization for PCCT Ring Artifact Reduction**. If you find this repo useful, please give it a star ⭐ and consider citing our paper in your research after publishing. Thank you.
+This repository represents the official implementation of our paper titled **ADN-RAR: Adaptive Dictionary Network with Joint Tri-Domain Optimization for PCCT Ring Artifact Reduction**. If you find this repo useful, please give it a star ⭐ and consider citing our paper in your research after publishing. Thank you.
 
 We present ADN-RAR, a novel framework for PCCT Ring Artifact Reduction.
 
