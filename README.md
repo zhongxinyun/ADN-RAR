@@ -1,4 +1,4 @@
-#  ADN-RAR: Adaptive Dictionary Network with Joint Tri-Domain Alternating Optimization for PCCT Ring Artifact Reduction
+#  ADN-RAR: Adaptive Dictionary Network with Joint Tri-Domain Optimization for PCCT Ring Artifact Reduction
 
 <h4 align="center">Xinyun Zhong<sup>1,</sup>, Qianjin Feng<sup>1,2</sup>, Yikun Zhang<sup>1</sup>, Xu Ji<sup>1,&dagger;</sup>, Yang Chen<sup>1,&dagger;</sup></center>
 <h4 align="center"><sup>1</sup>Southeast University,</sup></center>
@@ -15,7 +15,7 @@ We present ADN-RAR, a novel framework for PCCT Ring Artifact Reduction.
 - **Dynamic hyper-parameter generator**: adaptively regulates the update step size in each iteration according to residual artifact intensity. 
 
 ## 📢 News
-**2025-12-31:** Our paper has been submitted to IEEE Transactions on Image Processing (TIP) for peer review. Code and pretrained Models will be released after accept. :rocket:<br>
+**2026-01-20:** Our paper has been submitted to IEEE Transactions on Image Processing (TIP) for peer review. Code and pretrained Models will be released after accept. :rocket:<br>
 
 ### 📦 Repository
 
