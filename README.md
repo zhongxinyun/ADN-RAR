@@ -1,6 +1,6 @@
 #  ADN-RAR: Adaptive Dictionary Network with Joint Tri-Domain Optimization for PCCT Ring Artifact Reduction
 
-<h4 align="center">Xinyun Zhong<sup>1,</sup>, Guannan Liu<sup>1,</sup>, Qianjin Feng<sup>1,2</sup>, Yikun Zhang<sup>1</sup>, Xu Ji<sup>1,&dagger;</sup>, Yang Chen<sup>1,&dagger;</sup></center>
+<h4 align="center">Xinyun Zhong<sup>1</sup>, Guannan Liu<sup>1</sup>, Qianjin Feng<sup>1,2</sup>, Yikun Zhang<sup>1</sup>, Xu Ji<sup>1,&dagger;</sup>, Yang Chen<sup>1,&dagger;</sup></center>
 <h4 align="center"><sup>1</sup>Southeast University,</sup></center>
 <h4 align="center"><sup>2</sup>Southern Medical University</sup></center>
 <h4 align="center"><sup>&dagger;</sup>Corresponding Authors</center></center>
